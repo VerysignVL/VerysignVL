@@ -1,13 +1,12 @@
-👋 Greetings, digital traveler! I'm @VerysignVL.
+👋 Hey there, world traveler! I'm @VerysignVL.
 
-👀 Passionate about WordPress and Laravel. These tools have become my trusty sidekicks in the digital realm.
+👀 While coding might not be my jam, leading adventurers like you? Absolutely! Directing a crew is where my true passion lies.
 
-🌱 Currently diving deep into the vast oceans of Golang and React. Every day is a new chapter in this tech odyssey!
+🌱 But here's a fun twist! WordPress and Laravel have turned into my secret weapons in the world of management. Integrating tech and leadership? A thrilling combo!
 
-💞️ Collaboration? I'm charting my own course at the moment, but always open to future expeditions!
+💞️ Partnering up for a new venture? At the moment, I'm captaining my own ship, but who knows what the tides might bring next!
 
-📫 Need to get in touch? Well, while I'm not currently accepting owl post or genie requests, you can always try deciphering the stars! 🌌
-
+📫 Want to send a message in a bottle? While I'm still waiting for that enchanted pigeon or magic carpet, you could always navigate via the stars! 🌌
 <!---
 VerysignVL/VerysignVL is a ✨ unique ✨ repository because its `README.md` (this file) shines on the forefront of my GitHub profile.
 Hit the Preview link to gaze upon the masterpiece!
